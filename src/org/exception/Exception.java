@@ -12,6 +12,9 @@ public class Exception  {
 			catch(ArrayIndexOutOfBoundsException e) {
 				System.out.println("handle the exception");
 			}
+			finally {
+				System.out.println("success");
+			}
 		
 
 			
