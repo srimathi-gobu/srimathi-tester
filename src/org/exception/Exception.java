@@ -14,6 +14,7 @@ public class Exception  {
 			}
 			finally {
 				System.out.println("success");
+				System.out.println("exception handled");
 			}
 		
 
